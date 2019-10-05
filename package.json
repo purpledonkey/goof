@@ -44,7 +44,7 @@
     "tap": "^5.7.0",
     "adm-zip": "0.4.7",
     "file-type": "^8.1.0",
-    "snyk": "^1.108.2"
+    "snyk": "^1.231.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1"
